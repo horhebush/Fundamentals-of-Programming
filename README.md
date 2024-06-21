@@ -1,0 +1,1 @@
+This course covers the use of basic programming knowledge using Java programming language to solve problems. The emphasis is to train students to design, implement, test, and debug programs intended to solve computing problems using fundamental programming constructs.
